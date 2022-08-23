@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.pokemons__item {
+  padding: 0 15px;
+  width: 230px;
+  margin-bottom: 20px;
+  text-align: center;
+}
